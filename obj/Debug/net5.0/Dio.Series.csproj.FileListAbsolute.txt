@@ -1,0 +1,16 @@
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\Dio.Series.csprojAssemblyReference.cache
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
